@@ -8,6 +8,6 @@ Este repositorio contiene mis apuntes **de formación de carrera en programació
 
 ## Estructura del repositorio
 
-- Carpeta `html-libro/`: apuntes HTML coleccionables de cada unidad.
+- Carpeta `html-libro/`: apuntes coleccionables de cada unidad.
 
 Usuario de GitHub: **asisy2kgit**
